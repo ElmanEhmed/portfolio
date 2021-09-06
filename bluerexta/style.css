@@ -199,20 +199,12 @@ section {
     margin: auto;
 }
 .section-ourwork{
-    background-color: #F1F1F1;
+    background-color: #A0A6B4;
 }
 .section-ourwork .nav-link:hover{
     background-color: #F42267;
 }
 .section-ourwork ul{
-    border-bottom-color: #A0A6B4;
-    border-bottom: 0px;
-}
-
-.section-ourwork li:hover a{
-    color: white;
-}
-.section-ourwork li{
     border-bottom-color: #A0A6B4;
 }
 .section-ourwork .nav-tabs{
@@ -231,34 +223,26 @@ section {
 .section-testimonials{
     background-image: url(img/Imge1.gif);
     color: black;
-     padding: 0;
 }
 
 .section-needhelp{
     background-color: #EE2164;
     color: #fff
 }
-
+.section-testimonials {
+    padding: 0;
+    
+}
 .section-needhelp p{
     padding-top: 20px;
 }
 
-.ourwork-write{
-    max-width: 910px;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 .section-needhelp .btn{
     background-color: #4B2D7F;
 }
-.carousel-item active{
-    float: left;
-}
-.client{
-    width: 365px;
-    height: 573px;
-    float: right;
-}
+
+
 .form-control{
     width: 480px;
     height: 50px;
